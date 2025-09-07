@@ -1,0 +1,24 @@
+{
+  "short_name": "Safemars",
+  "name": "Safemars",
+  "description": "Farm CAKE with Pancake LP Tokens",
+  "homepage_url": "https://defipower.com",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1FC7D4",
+  "background_color": "#ffffff",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "type": "image/x-icon",
+      "sizes": "16x16"
+    },
+    {
+      "src": "safemars.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    }
+  ],
+  "iconPath": "/images/cake.svg"
+}

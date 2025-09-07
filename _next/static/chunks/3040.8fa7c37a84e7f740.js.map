@@ -1,0 +1,1 @@
+{"version":3,"file":"static/chunks/3040.8fa7c37a84e7f740.js","mappings":"4JAAO,IAAMA,EAAsB","sources":["webpack://_N_E/./packages/farms/constants/common.ts"],"sourcesContent":["export const CAKE_BNB_LP_MAINNET = '0x0eD7e52944161450477ee417DE9Cd3a859b14fD0'\n"],"names":["CAKE_BNB_LP_MAINNET"],"sourceRoot":""}

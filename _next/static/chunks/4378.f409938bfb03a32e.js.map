@@ -1,0 +1,1 @@
+{"version":3,"file":"static/chunks/4378.f409938bfb03a32e.js","mappings":"0GAIA,UAFsC","sources":["webpack://_N_E/./packages/farms/constants/1.ts"],"sourcesContent":["import { SerializedFarmConfig } from '@pancakeswap/farms'\n\nconst farms: SerializedFarmConfig[] = []\n\nexport default farms\n"],"names":[],"sourceRoot":""}

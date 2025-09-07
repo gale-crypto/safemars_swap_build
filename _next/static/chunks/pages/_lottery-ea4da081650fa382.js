@@ -1,0 +1,2 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[324],{57964:function(n,u,_){(window.__NEXT_P=window.__NEXT_P||[]).push(["/_lottery",function(){return _(21465)}])},21465:function(n,u,_){"use strict";_.r(u);var t=_(97233);u.default=t.Z}},function(n){n.O(0,[8801,8125,5874,2134,7233,9774,2888,179],(function(){return u=57964,n(n.s=u);var u}));var u=n.O();_N_E=u}]);
+//# sourceMappingURL=_lottery-ea4da081650fa382.js.map
